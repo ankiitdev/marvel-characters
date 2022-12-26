@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.details.CharacterDetailsActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:layout_constraintTop_toTopOf="parent"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <ImageView
+        android:id="@+id/image_character"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="fitXY"
+        app:layout_constraintTop_toBottomOf="@id/toolbar" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/character_name"
+        style="?textAppearanceHeadline6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/margin_small"
+        android:ellipsize="end"
+        android:gravity="start"
+        android:maxLines="1"
+        android:textAlignment="textStart"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:textSize="@dimen/font_size_large"
+        android:paddingHorizontal="@dimen/padding_medium"
+        app:layout_constraintTop_toBottomOf="@id/image_character" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/character_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:textAlignment="textStart"
+        android:textSize="@dimen/font_size_medium"
+        android:layout_marginTop="@dimen/margin_xxsmall"
+        android:paddingHorizontal="@dimen/padding_medium"
+        app:layout_constraintTop_toBottomOf="@id/character_name" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

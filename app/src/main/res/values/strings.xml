@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+    <string name="str_marvel_app">Marvel Characters</string>
+    <string name="str_marvel_character_details">Character Details</string>
+    <string name="str_error_message">Unable to fetch data. Please try again!</string>
+    <string name="str_desc_error">Description not available</string>
+</resources>

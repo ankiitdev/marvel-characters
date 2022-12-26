@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--font-->
+    <dimen name="font_size_xxxsmall">8sp</dimen>
+    <dimen name="font_size_xxsmall">10sp</dimen>
+    <dimen name="font_size_xsmall">12sp</dimen>
+    <dimen name="font_size_small">14sp</dimen>
+    <dimen name="font_size_medium">16sp</dimen>
+    <dimen name="font_size_large">18sp</dimen>
+    <dimen name="font_size_xlarge">20sp</dimen>
+    <dimen name="font_size_xxlarge">26sp</dimen>
+    <dimen name="font_size_xxxlarge">32sp</dimen>
+
+    <!--padding-->
+    <dimen name="padding_xxxsmall">2dp</dimen>
+    <dimen name="padding_xxsmall">4dp</dimen>
+    <dimen name="padding_xsmall">6dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_xxxmedium">10dp</dimen>
+    <dimen name="padding_xxmedium">12dp</dimen>
+    <dimen name="padding_xmedium">14dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">18dp</dimen>
+    <dimen name="padding_xlarge">20dp</dimen>
+    <dimen name="padding_xxlarge">22dp</dimen>
+    <dimen name="padding_xxxlarge">24dp</dimen>
+    <dimen name="padding_extra_large">32dp</dimen>
+
+
+    <!--margin-->
+    <dimen name="margin_xxxsmall">2dp</dimen>
+    <dimen name="margin_xxsmall">4dp</dimen>
+    <dimen name="margin_xsmall">6dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_xxxmedium">10dp</dimen>
+    <dimen name="margin_xxmedium">12dp</dimen>
+    <dimen name="margin_xmedium">14dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">18dp</dimen>
+    <dimen name="margin_xlarge">20dp</dimen>
+    <dimen name="margin_xxlarge">22dp</dimen>
+    <dimen name="margin_xxxlarge">24dp</dimen>
+    <dimen name="margin_extra_large">32dp</dimen>
+
+
+    <!--corner-->
+    <dimen name="no_corner">0dp</dimen>
+    <dimen name="corner_xxxsmall">2dp</dimen>
+    <dimen name="corner_xxsmall">4dp</dimen>
+    <dimen name="corner_xsmall">6dp</dimen>
+    <dimen name="corner_small">8dp</dimen>
+    <dimen name="corner_xxxmedium">10dp</dimen>
+    <dimen name="corner_xxmedium">12dp</dimen>
+    <dimen name="corner_xmedium">14dp</dimen>
+    <dimen name="corner_medium">16dp</dimen>
+    <dimen name="corner_large">18dp</dimen>
+    <dimen name="corner_xlarge">20dp</dimen>
+    <dimen name="corner_xxlarge">22dp</dimen>
+    <dimen name="corner_xxxlarge">24dp</dimen>
+
+
+    <!--elevation-->
+    <dimen name="no_elevation">0dp</dimen>
+    <dimen name="elevation_small">2dp</dimen>
+    <dimen name="elevation_medium">4dp</dimen>
+    <dimen name="elevation_large">6dp</dimen>
+    <dimen name="elevation_xlarge">8dp</dimen>
+    <dimen name="elevation_xxlarge">10dp</dimen>
+
+    <dimen name="view_pager_dot_thickness">4dp</dimen>
+</resources>

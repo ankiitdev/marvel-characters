@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--font-->
+    <dimen name="font_size_xxxsmall">6sp</dimen>
+    <dimen name="font_size_xxsmall">8sp</dimen>
+    <dimen name="font_size_xsmall">10sp</dimen>
+    <dimen name="font_size_small">12sp</dimen>
+    <dimen name="font_size_medium">14sp</dimen>
+    <dimen name="font_size_large">16sp</dimen>
+    <dimen name="font_size_xlarge">18sp</dimen>
+    <dimen name="font_size_xxlarge">20sp</dimen>
+    <dimen name="font_size_xxxlarge">22sp</dimen>
+
+
+    <!--margin-->
+    <dimen name="margin_xxxsmall">1dp</dimen>
+    <dimen name="margin_xxsmall">2dp</dimen>
+    <dimen name="margin_xsmall">4dp</dimen>
+    <dimen name="margin_small">6dp</dimen>
+    <dimen name="margin_xxxmedium">8dp</dimen>
+    <dimen name="margin_xxmedium">10dp</dimen>
+    <dimen name="margin_xmedium">12dp</dimen>
+    <dimen name="margin_medium">14dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_xlarge">18dp</dimen>
+    <dimen name="margin_xxlarge">20dp</dimen>
+    <dimen name="margin_xxxlarge">22dp</dimen>
+    <dimen name="margin_extra_large">24dp</dimen>
+
+
+
+    <!--padding-->
+    <dimen name="padding_xxxsmall">1dp</dimen>
+    <dimen name="padding_xxsmall">2dp</dimen>
+    <dimen name="padding_xsmall">4dp</dimen>
+    <dimen name="padding_small">6dp</dimen>
+    <dimen name="padding_xxxmedium">8dp</dimen>
+    <dimen name="padding_xxmedium">10dp</dimen>
+    <dimen name="padding_xmedium">12dp</dimen>
+    <dimen name="padding_medium">14dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_xlarge">18dp</dimen>
+    <dimen name="padding_xxlarge">20dp</dimen>
+    <dimen name="padding_xxxlarge">22dp</dimen>
+    <dimen name="padding_extra_large">24dp</dimen>
+
+    <dimen name="view_pager_dot_thickness">3dp</dimen>
+
+</resources>
